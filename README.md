@@ -1,92 +1,165 @@
-# HR Employee Attrition Analytics Dashboard
+# HR Employee Attrition Analysis Dashboard
+
+An interactive **HR Analytics Dashboard** built in **Microsoft Excel** to analyze employee attrition trends, workforce demographics, and retention risk factors using advanced Excel analytics tools.
+
+---
 
 ## Project Overview
-This project is an end-to-end HR analytics dashboard built entirely in Microsoft Excel to analyze employee attrition trends, workforce demographics, employee satisfaction, and retention insights.
 
-The dashboard transforms raw HR employee data into actionable business insights through interactive visualizations, KPI tracking, and slicer-driven analysis.
+This project transforms raw HR employee data into an executive-level dashboard for workforce retention analysis.
 
-## Objective
-The goal of this project is to analyze employee attrition patterns and identify factors influencing employee turnover to support data-driven HR decision-making.
+The dashboard enables stakeholders to monitor attrition trends, identify high-risk employee segments, and make data-driven HR decisions.
 
-## Tools Used
+---
+
+## Tools & Technologies
+
 - Microsoft Excel
-  - Data Cleaning
-  - Data Preparation
-  - Pivot Tables
-  - Pivot Charts
-  - Slicers
-  - KPI Cards
-  - Dashboard Design
+- Power Query
+- Power Pivot
+- DAX (Data Analysis Expressions)
+- Pivot Tables
+- Pivot Charts
+- Interactive Slicers
+- Dashboard Design & KPI Cards
 
-## Dataset
-Dataset contains employee HR records including:
-- Employee demographics
-- Department information
-- Job roles
-- Monthly income
-- Education
-- Work experience
-- Job satisfaction
-- Attrition status
-- Performance metrics
+---
 
-## Key Business Questions Answered
-- What is the overall employee attrition rate?
-- Which departments experience the highest attrition?
-- Which job roles have the highest employee turnover?
-- How does attrition vary across age groups?
-- Is employee satisfaction linked to attrition?
-- Does income influence employee retention?
-- Which education backgrounds show higher attrition trends?
-- How does work-life balance impact employee turnover?
+## Dataset Summary
 
-## Dashboard Features
-- Interactive slicer-based filtering
-- KPI summary cards
-- Department-wise attrition analysis
-- Age group distribution analysis
-- Job role comparison
-- Satisfaction insights
-- Income analysis
-- Dynamic visual reporting
+| Metric | Value |
+|------|------|
+| Total Employees | 1,470 |
+| Total Columns | 35 |
+| Attrition Count | 237 |
+| Attrition Rate | 16.1% |
 
-## Project Workflow
-1. Raw data collection
-2. Data cleaning and formatting in Excel
-3. Data transformation
-4. Pivot table analysis
-5. KPI metric creation
-6. Dashboard design and visualization
-7. Interactive filtering implementation
+Dataset: IBM HR Employee Attrition Dataset
+
+---
+
+## Data Preparation
+
+Data preprocessing was performed using **Power Query** and Excel transformations.
+
+### Steps Performed
+- Data validation
+- Missing value check
+- Duplicate record check
+- Feature engineering
+- Data modeling preparation
+
+---
+
+## Feature Engineering
+
+Created analytical grouping columns for better segmentation:
+
+- **Attrition Flag** (Binary indicator)
+- **Age Group**
+- **Salary Band**
+- **Tenure Group**
+
+---
+
+## Power Pivot Data Model
+
+The dataset was loaded into **Power Pivot** for scalable modeling and dynamic reporting.
+
+Used to:
+- Create reusable KPI measures
+- Support slicer-driven dashboard interactivity
+- Enable efficient DAX calculations
+
+---
+
+## DAX Measures Created
+
+| Measure | Purpose |
+|--------|---------|
+| Employee_Count | Total workforce count |
+| Attrition_Count | Employees who left |
+| Attrition_Rate | Attrition percentage |
+| Avg_Monthly_Income | Salary benchmark |
+| Avg_Age | Workforce demographic metric |
+| Avg_Tenure | Employee retention metric |
+
+**Total Measures Created: 6**
+
+---
+
+## Dashboard KPIs
+
+- Total Employees: **1,470**
+- Attrition Count: **237**
+- Attrition Rate: **16.1%**
+- Average Salary: **₹6,503**
+- Average Age: **37**
+- Average Tenure: **7 Years**
+
+---
+
+## Dashboard Visualizations
+
+Built **6 interactive visualizations**:
+
+- Attrition Rate by Department
+- Attrition Rate by Overtime
+- Attrition Rate by Job Role
+- Attrition Rate by Age Group
+- Attrition Rate by Salary Band
+- Attrition Rate by Tenure
+
+---
+
+## Interactive Filters
+
+Dynamic slicers included for:
+
+- Job Role
+- Department
+- Gender
+- Marital Status
+
+---
 
 ## Key Insights
-- Certain departments show significantly higher attrition rates.
-- Employee satisfaction appears strongly related to turnover.
-- Mid-level income groups display noticeable attrition patterns.
-- Specific job roles contribute disproportionately to overall attrition.
-- Younger employee segments show different attrition behavior compared to senior employees.
+
+- Employees working overtime show significantly higher attrition.
+- Sales department records the highest attrition.
+- Sales Representatives are the most vulnerable job role.
+- Younger employees (18–25) have the highest turnover.
+- Lower salary bands show higher attrition risk.
+- Employees within 0–2 years tenure are most likely to leave.
+
+---
+
+## Project Metrics
+
+| Component | Count |
+|---------|------|
+| Records Analyzed | 1,470 |
+| Features | 35 |
+| Engineered Columns | 4 |
+| DAX Measures | 6 |
+| KPI Cards | 6 |
+| Dashboard Charts | 6 |
+| Interactive Slicers | 4 |
 
 ## Skills Demonstrated
-- Data Cleaning
-- Data Analysis
-- Dashboard Development
-- Business Intelligence
-- Data Visualization
+
+- Excel Dashboard Development
+- Power Query Data Transformation
+- Power Pivot Data Modeling
+- DAX Measure Creation
 - HR Analytics
-- Excel Reporting
-- Analytical Thinking
+- KPI Reporting
+- Interactive Dashboard Design
+- Business Insight Analysis
 
-## Repository Structure
-📂 HR-Employee-Attrition-Analytics
- ┣ 📄 HR Dashboard.xlsx
- ┣ 📄 Dataset.xlsx
- ┣ 📄 README.md
- ┗ 📂 Screenshots
-
-## Dashboard Preview
-(Add dashboard screenshots here)
+---
 
 ## Author
-**Chinmaye Datta Kasarla**
 
-If you found this project interesting, feel free to star the repository.
+**Chinmaye Datta Kasarla**  
+Aspiring Data Analyst | Excel | SQL | Power BI | Data Analytics
