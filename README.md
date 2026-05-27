@@ -124,9 +124,7 @@ Dynamic slicers included for:
 - Gender
 - Marital Status
 
-<img width="1870" height="704" alt="Screenshot 2026-05-27 202232" src="https://github.com/user-attachments/assets/e853e309-6509-49db-8a61-bed6ffcc642b" />
-
-
+<img width="539" height="474" alt="Screenshot 2026-05-27 205133" src="https://github.com/user-attachments/assets/f4708444-914a-4e81-a77e-0acbe19df082" />
 
 ---
 
