@@ -167,4 +167,4 @@ Dynamic slicers included for:
 ## Author
 
 **Chinmaye Datta Kasarla**  
-Aspiring Data Analyst | Excel | SQL | Power BI | Data Analytics
+Aspiring Data Analyst | Excel | SQL| Data Analytics
