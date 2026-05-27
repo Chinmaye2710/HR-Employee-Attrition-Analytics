@@ -110,6 +110,9 @@ Built **6 interactive visualizations**:
 - Attrition Rate by Salary Band
 - Attrition Rate by Tenure
 
+
+<img width="1870" height="704" alt="Screenshot 2026-05-27 202232" src="https://github.com/user-attachments/assets/b4aae4fc-1961-4be9-b3b3-3363a67bfea7" />
+
 ---
 
 ## Interactive Filters
@@ -120,6 +123,10 @@ Dynamic slicers included for:
 - Department
 - Gender
 - Marital Status
+
+<img width="1870" height="704" alt="Screenshot 2026-05-27 202232" src="https://github.com/user-attachments/assets/e853e309-6509-49db-8a61-bed6ffcc642b" />
+
+
 
 ---
 
