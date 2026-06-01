@@ -65,6 +65,7 @@ The dataset was transformed into a Star Schema to support scalable analytics and
 * Risk_Base
 * Risk Segmentation Framework
 
+<img width="1465" height="738" alt="DataModel" src="https://github.com/user-attachments/assets/92146bc0-9e43-48de-b46a-1237af072282" />
 ---
 
 ## Dashboard Pages
@@ -86,6 +87,9 @@ Analysis:
 * Job Role Attrition
 * Overtime Impact
 
+  <img width="1302" height="738" alt="1_EXECUTIVE DASHBOARD" src="https://github.com/user-attachments/assets/1c29ccad-dd9c-4bb9-bc68-339f49a7f662" />
+
+
 ---
 
 ### 2. Attrition Drivers
@@ -99,6 +103,9 @@ Analysis:
 * Job Type
 * Department × Overtime Analysis
 * High-Risk Roles
+
+  <img width="1319" height="741" alt="2_Attrition_Drivers" src="https://github.com/user-attachments/assets/fe9a4e3b-df3c-4c78-9cc9-1b6a7d872b2e" />
+
 
 ---
 
@@ -115,6 +122,9 @@ Analysis:
 * Age Group
 * Demographic Cross Analysis
 
+  <img width="1295" height="730" alt="3_Demographic_Analysis" src="https://github.com/user-attachments/assets/81b62e38-25c9-49b2-b052-04866e1e408f" />
+
+
 ---
 
 ### 4. Compensation Analysis
@@ -128,6 +138,9 @@ Analysis:
 * Stock Option Levels
 * Performance Ratings
 * Income × Overtime Analysis
+
+
+<img width="1301" height="734" alt="4_Compensation_Analysis" src="https://github.com/user-attachments/assets/e03dd8c2-b9ce-44ad-9fc7-aaee5021f23c" />
 
 ---
 
@@ -150,6 +163,9 @@ Outputs:
 * Risk Level
 * Risk Distribution
 * Risk Lift Analysis
+
+  <img width="1296" height="737" alt="5_RiskSegmentation_Analysis" src="https://github.com/user-attachments/assets/3de92ec4-ef4a-46e5-967a-fa94bf45c3f1" />
+
 
 ---
 
