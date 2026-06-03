@@ -87,7 +87,8 @@ Analysis:
 * Job Role Attrition
 * Overtime Impact
 
-  <img width="1302" height="738" alt="1_EXECUTIVE DASHBOARD" src="https://github.com/user-attachments/assets/1c29ccad-dd9c-4bb9-bc68-339f49a7f662" />
+<img width="1323" height="745" alt="1" src="https://github.com/user-attachments/assets/9314b2a1-9d47-4179-9901-32a56e24dbc5" />
+
 
 
 ---
@@ -104,7 +105,7 @@ Analysis:
 * Department × Overtime Analysis
 * High-Risk Roles
 
-  <img width="1319" height="741" alt="2_Attrition_Drivers" src="https://github.com/user-attachments/assets/fe9a4e3b-df3c-4c78-9cc9-1b6a7d872b2e" />
+<img width="1327" height="745" alt="2" src="https://github.com/user-attachments/assets/173542a3-e7c0-4a74-9182-cd4f3994fe1a" />
 
 
 ---
@@ -122,7 +123,8 @@ Analysis:
 * Age Group
 * Demographic Cross Analysis
 
-  <img width="1295" height="730" alt="3_Demographic_Analysis" src="https://github.com/user-attachments/assets/81b62e38-25c9-49b2-b052-04866e1e408f" />
+<img width="1304" height="729" alt="3" src="https://github.com/user-attachments/assets/96df133b-a9bb-48b2-9299-d879bfe7308e" />
+
 
 
 ---
@@ -140,7 +142,8 @@ Analysis:
 * Income × Overtime Analysis
 
 
-<img width="1301" height="734" alt="4_Compensation_Analysis" src="https://github.com/user-attachments/assets/e03dd8c2-b9ce-44ad-9fc7-aaee5021f23c" />
+<img width="1307" height="738" alt="4" src="https://github.com/user-attachments/assets/90816ac8-2344-4861-ab2b-3ae5dad1049e" />
+
 
 ---
 
@@ -164,7 +167,8 @@ Outputs:
 * Risk Distribution
 * Risk Lift Analysis
 
-  <img width="1296" height="737" alt="5_RiskSegmentation_Analysis" src="https://github.com/user-attachments/assets/3de92ec4-ef4a-46e5-967a-fa94bf45c3f1" />
+<img width="1303" height="734" alt="5" src="https://github.com/user-attachments/assets/107e9232-3f76-465c-b710-14ae3863de38" />
+
 
 
 ---
@@ -213,22 +217,6 @@ High-risk employees leave 3.82x more frequently than the company average.
 * Risk Scoring Framework
 * Risk Segmentation Analytics
 
----
-
-## Repository Structure
-
-```text
-HR-Attrition-Analytics-Risk-Segmentation
-│
-├── Dataset
-├── SQL
-├── PowerBI
-├── Dashboard_Screenshots
-├── Data_Model
-└── README.md
-```
-
----
 
 ## Skills Demonstrated
 
